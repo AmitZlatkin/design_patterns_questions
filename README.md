@@ -9,7 +9,7 @@ A collection of questions similar to the Design Patterns questions in the final 
 * Structural patterns
   * [Composite](https://refactoring.guru/design-patterns/composite)
   * ~~[Adapter](https://refactoring.guru/design-patterns/adapter)~~
-  * ~~[Decorator](https://refactoring.guru/design-patterns/decorato)r~~
+  * ~~[Decorator](https://refactoring.guru/design-patterns/decorator)~~
 * Creational patterns
   * [Factory](https://refactoring.guru/design-patterns/factory-method)
   * [Abstract Factory](https://refactoring.guru/design-patterns/abstract-factory)
