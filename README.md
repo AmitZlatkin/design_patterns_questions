@@ -17,7 +17,7 @@ A collection of questions similar to the Design Patterns questions in the final 
 
 
 
-### Hierarchy
+### File Hierarchy
 
     ├── Question1
     |   ├── question.pdf
