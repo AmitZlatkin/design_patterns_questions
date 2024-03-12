@@ -19,11 +19,12 @@ A collection of questions similar to the Design Patterns questions in the final 
 
 ### File Hierarchy
 
-    ├── Question1
+    ├── Hamburgers
     |   ├── question.pdf
     |   └── solution.pdf
-    ├── Question2
+    ├── Olympics
     |   ├── question.pdf
     |   └── solution.pdf
-    └── ...
+    |
+    └── more to come later...
 
